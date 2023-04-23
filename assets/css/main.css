@@ -2027,7 +2027,7 @@ input, select, textarea {
 			.icon.featured:before {
 				font-size: 4.5em;
 				line-height: 1em;
-				color: #fff;
+				color: #ece6e8;
 			}
 
 			.icon.featured:after {
@@ -2041,19 +2041,19 @@ input, select, textarea {
 			}
 
 			.icon.featured.alt {
-				background-color: #252122;
+				background-color: #d52349;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #252122;
+					border-top-color: #d52349;
 				}
 
 			.icon.featured.alt2 {
-				background-color: #827a7c;
+				background-color: #d52349;
 			}
 
 				.icon.featured.alt2:after {
-					border-top-color: #827a7c;
+					border-top-color: #d52349;
 				}
 
 /* Page Wrapper */
@@ -2198,7 +2198,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #efe9ea;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
